@@ -4,12 +4,13 @@ Instruction on how to build this source code, English follows Indonesian
 
 
 Instruksi penggunaan : 
-Kalau menggunakan Code Blocks,open project lalu langsung build 
+<ul>
+<h3>Kalau menggunakan Code Blocks,open project lalu langsung build<h3>
 
-Kalau menggunakan gcc, masuk ke directory Searching and Sorting
-lalu ketikkan perintah :
-gcc main.c -o searchnsort
-searchnsort.exe
+<li>Kalauu menggunakan gcc, masuk ke directory Searching and Sorting lalu ketikkan perintah : <li>
+<li> gcc main.c -o searchnsort<li>
+<li>searchnsort.exe<li>
+<ul>
 
 If You are using Code Blocks IDE, simply open the folder as a Project and then build the code
 

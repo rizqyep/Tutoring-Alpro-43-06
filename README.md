@@ -2,10 +2,10 @@
 Source code Tutoring Alpro TK-43-06<br>
 
 <h3>Instruksi penggunaan : </h3>
-<ul>
 <h4>Kalau menggunakan Code Blocks,open project lalu langsung build</h4>
 
-<li>Kalauu menggunakan gcc, masuk ke directory Searching and Sorting lalu ketikkan perintah : </li>
+<h4>Kalauu menggunakan gcc, masuk ke directory Searching and Sorting lalu ketikkan perintah : </h4>
+<ul>
 <li> gcc main.c -o searchnsort</li>
 <li>searchnsort.exe</li>
 </ul>

@@ -5,7 +5,7 @@ Instruction on how to build this source code, English follows Indonesian
 
 Instruksi penggunaan : 
 <ul>
-<h3>Kalau menggunakan Code Blocks,open project lalu langsung build<h3>
+<h4>Kalau menggunakan Code Blocks,open project lalu langsung build</h4>
 
 <li>Kalauu menggunakan gcc, masuk ke directory Searching and Sorting lalu ketikkan perintah : <li>
 <li> gcc main.c -o searchnsort<li>

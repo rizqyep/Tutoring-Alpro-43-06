@@ -1,9 +1,7 @@
 # Tutoring-Alpro-43-06
-Source code Tutoring Alpro TK-43-06
-Instruction on how to build this source code, English follows Indonesian
+Source code Tutoring Alpro TK-43-06<br>
 
-
-Instruksi penggunaan : 
+<h1>Instruksi penggunaan : </h3>
 <ul>
 <h4>Kalau menggunakan Code Blocks,open project lalu langsung build</h4>
 
@@ -12,6 +10,7 @@ Instruksi penggunaan :
 <li>searchnsort.exe</li>
 </ul>
 
+<h3>Instruction on how to build this source code</h3>
 <h4>If You are using Code Blocks IDE, simply open the folder as a Project and then build the code</h4>
 
 <h4>If you are using GCC Compiler, run these command after changing directory to the code directory in terminal/cmd:</h4>
